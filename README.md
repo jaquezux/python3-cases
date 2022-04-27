@@ -1,1 +1,3 @@
-# python3-cases
+# Python3 Cases
+
+Python lessons and tests.
